@@ -1,0 +1,14 @@
+venv/
+
+__pycache__/
+*.pyc
+
+Euroleague_data/
+istatistik.zip
+Tüm slayt sorular ve cevaplar.docx
+Analyzing EuroLeague Player Performance Metrics Final Project (1).pdf
+
+.vscode/
+
+.DS_Store
+Thumbs.db
